@@ -8,3 +8,5 @@ How to play the game:
 * If you press it while it's red, Frogger goes back to the starting position.
 * The flashing will be faster and faster, so act quickly!
 * The difficulty can be adjusted by shorting the J4 pins with a jumper (faster flashing).
+
+CC BY-NC-SA
